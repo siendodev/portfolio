@@ -13,7 +13,7 @@ const Contacto =() => {
             ¡Hago todo lo posible para comunicarme contigo!
             </p>
             <div className='socials flex flex-row gap-2'>
-                <Link href="github.com"/>
+                <Link href="github.com/siendodev"/>
                     <Image src={GithubIcon} alt="Github Icon"/>
                     <Link href="(linkedin).com"/>
                     <Image src={LinkedinIcon} alt="Linkedin Icon"/>
